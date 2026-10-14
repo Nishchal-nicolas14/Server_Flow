@@ -40,6 +40,14 @@
 
 **Server Flow** turns backend architecture into a visual, drag-and-drop experience — think *n8n* meets *code generation*. Instead of hand-writing routes, controllers, and boilerplate, you design the flow of your API on a canvas, and Server Flow compiles it into clean, production-ready server code.
 
+<div align="center">
+  
+
+https://github.com/user-attachments/assets/073c6c96-d25f-4812-903d-e781be1246c0
+
+
+</div>
+
 > 🧩 **Drag** a node → 🔗 **Connect** the logic → ⚡ **Generate** the backend. That's it.
 
 <div align="center">
